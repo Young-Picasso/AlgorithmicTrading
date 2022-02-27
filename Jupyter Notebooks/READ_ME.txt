@@ -1,0 +1,1 @@
+Development and explaination of tools within neat Jupyter Notebooks. All tools can also be found in picassos_palette.py.
